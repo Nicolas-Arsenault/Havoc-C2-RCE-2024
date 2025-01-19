@@ -1,0 +1,4 @@
+pyfiglet
+requests
+urllib3
+pycryptodome
