@@ -12,4 +12,8 @@ Abusing SSRF to deliver an authenticated command injection payload
 
 ```python3 poc.py -t https://example.com -i 127.0.0.1 -p 10000```
 
+
+### Credits
+This is not all my doing.
+
 Credits to @chebuya and @IncludeSecurity
