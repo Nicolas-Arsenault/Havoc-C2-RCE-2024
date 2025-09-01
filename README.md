@@ -1,6 +1,8 @@
 # Authenticated Havoc-Chained-RCE
 (CVE-2024-41570) 
 
+https://x.com/Lrdvile/status/1881100754271994212
+
 Command injection:
 Havoc is vulnerable to command injection enabling an authenticated user to execute commands on the Teamserver. Affects versions 0.3 up to the latest release 0.6. Havoc's default profile contains hardcoded passwords, so a C2 operator careless enough to use the default profile on a public network can immediately be exploited.
 
