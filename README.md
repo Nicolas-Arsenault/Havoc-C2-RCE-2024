@@ -22,6 +22,9 @@ Abusing SSRF to deliver an authenticated command injection payload
 
 ```python3 poc.py -t https://example.com -i 127.0.0.1 -p 10000```
 
+<img width="962" height="510" alt="image" src="https://github.com/user-attachments/assets/c800e939-a52b-4214-b377-956bfc07d4d6" />
+
+
 
 ### Credits
 This is not all my doing.
